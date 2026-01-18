@@ -14,7 +14,7 @@
 - 🐚 **`Linux Environment:`** `Setia menggunakan Linux sebagai basis utama dalam setiap pengembangan script dan manajemen server.`
 - 🤖 **`AI & API Logic:`** `Mengelola integrasi API Key, sistem OTP, dan bot Python secara efisien.`
 - 🛡️ **`Hobbyist:`** `Fokus pada optimasi sistem dan perlindungan data sederhana.`
-- ✨ **`github saya :`** ` @cmdecho @rizkyckj @rvpnstores .`
+- ✨ **`github saya:`** ` @cmdecho @rizkyckj @rvpnstores .`
 - 
 ---
 
