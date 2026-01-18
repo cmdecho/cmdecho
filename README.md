@@ -1,4 +1,4 @@
-# ⚡ RIZKY DEWA | Full-Stack Security Enthusiast
+# ⚡ RIZKY | Full-Stack Security Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Views" />
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 Seorang **Infrastructure Overdrive Specialist** yang berfokus pada pengembangan sistem dashboard terenkripsi dan optimasi database server. Saya suka membangun alat yang menggabungkan estetika *Glassmorphism* dengan keamanan tingkat tinggi.
 
-- 🛠️ **Sedang Mengembangkan:** [Rizky Cloud V10.1](https://github.com/USERNAME_KAMU/rizky-cloud) - Dashboard Terminal Encrypted.
+- 🛠️ **Sedang Mengembangkan:** [Rizky Cloud V10.1](https://github.com/cmdecho/rizky-cloud) - Dashboard Terminal Encrypted.
 - 🛡️ **Keahlian:** PHP Security, Database Auto-Clean Logic, & UI/UX Dashboard.
 - 💬 **Tanya Saya Tentang:** PHP, MySQL, CSS Magic, & Server Monitoring.
 
