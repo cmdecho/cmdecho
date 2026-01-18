@@ -27,17 +27,17 @@ Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir men
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cmdecho&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdecho&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://unlocked.v90.us/api/card?user=cmdecho&theme=tokyonight" alt="GitHub Profile Miles" />
 </p>
 
 ---
 
 ### 📬 Connect
 Hanya tempat berbagi hasil eksplorasi hobi. Mari bertukar pikiran:
-- 📩 **Telegram:** [@RVPNSTORES]
+- 📩 **Telegram:** [@cmdecho]
+- 📸 **Instagram:** [@cmdecho]
 
 ---
 <p align="center">
