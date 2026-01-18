@@ -28,8 +28,6 @@
 
 ---
 
----
-
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://instagram.com/cmdecho" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
