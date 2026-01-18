@@ -36,8 +36,8 @@ Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir men
 
 ### 📬 Connect
 Hanya tempat berbagi hasil eksplorasi hobi. Mari bertukar pikiran:
-- 📩 **Telegram:** [@cmdecho]
-- 📸 **Instagram:** [@cmdecho]
+- 📩 **Telegram:** [@rizky]
+]
 
 ---
 <p align="center">
