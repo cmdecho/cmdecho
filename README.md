@@ -34,10 +34,12 @@ Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir men
 
 ---
 
-### 📬 Connect
-Hanya tempat berbagi hasil eksplorasi hobi. Mari bertukar pikiran:
-- 📩 **Telegram:** [@rizky]
-]
+### 📬 Connect With Me
+<p align="left">
+  <a href="https://instagram.com/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
 
 ---
 <p align="center">
