@@ -10,12 +10,12 @@
 
 <code>Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir mengeksplorasi dunia Linux. Bagi saya, setiap baris kode adalah seni yang berawal dari hobi untuk memecahkan masalah sehari-hari.</code>
 
-- 🛠️ **`Project Baru:`** [`Project: 3-YEARS-SANDBOX`](https://github.com/cmdecho/DOCKER) — `Ruang eksplorasi otomatisasi dan keamanan.`
+- 🛠️ **`Project Baru:`** [`Project: 3-YEARS-SANDBOX`](https://github.com/cmdecho/3-years-sandbox) — `Ruang eksplorasi otomatisasi dan keamanan.`
 - 🐚 **`Linux Environment:`** `Setia menggunakan Linux sebagai basis utama dalam setiap pengembangan script dan manajemen server.`
 - 🤖 **`AI & API Logic:`** `Mengelola integrasi API Key, sistem OTP, dan bot Python secara efisien.`
 - 🛡️ **`Hobbyist:`** `Fokus pada optimasi sistem dan perlindungan data sederhana.`
-- ✨ **`github saya:`** ` @cmdecho @rizkyckj @rvpnstores .`
-- 
+- ✨ **`Network:`** `@cmdecho | @rizkyckj | @rvpnstores`
+
 ---
 
 ### 🛠️ Arsenal
@@ -28,6 +28,11 @@
 
 ---
 
+### 📊 GitHub Journey
+<p align="center">
+  <img src="https://unlocked.v90.us/api/card?user=cmdecho&theme=tokyonight" alt="GitHub Profile Miles" />
+</p>
+
 ---
 
 ### 📬 Connect With Me
@@ -38,5 +43,5 @@
 
 ---
 <p align="center">
-  <code>"3 years of turning curiosity into code, all within Linux."</code>
+  <code>"No one is born an expert; we all start by being a student."</code>
 </p>
