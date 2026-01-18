@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 "Driven by passion, perfected over 3 years of self-taught coding journey."
+### 🚀 `Driven by passion, perfected over 3 years of self-taught coding journey.`
 
-Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir mengeksplorasi dunia Linux. Bagi saya, setiap baris kode adalah seni yang berawal dari hobi untuk memecahkan masalah sehari-hari.
+<code>Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir mengeksplorasi dunia Linux. Bagi saya, setiap baris kode adalah seni yang berawal dari hobi untuk memecahkan masalah sehari-hari.</code>
 
-- 🛠️ **Project Baru:** [Project: 3-YEARS-SANDBOX](https://github.com/cmdecho/3-years-sandbox) — Ruang eksplorasi otomatisasi dan keamanan.
-- 🐚 **Linux Environment:** Setia menggunakan **Linux** sebagai basis utama dalam setiap pengembangan script dan manajemen server.
-- 🤖 **AI & API Logic:** Mengelola integrasi API Key, sistem OTP, dan bot Python secara efisien.
-- 🛡️ **Hobbyist:** Fokus pada optimasi sistem dan perlindungan data sederhana.
+- 🛠️ **`Project Baru:`** [`Project: 3-YEARS-SANDBOX`](https://github.com/cmdecho/3-years-sandbox) — `Ruang eksplorasi otomatisasi dan keamanan.`
+- 🐚 **`Linux Environment:`** `Setia menggunakan Linux sebagai basis utama dalam setiap pengembangan script dan manajemen server.`
+- 🤖 **`AI & API Logic:`** `Mengelola integrasi API Key, sistem OTP, dan bot Python secara efisien.`
+- 🛡️ **`Hobbyist:`** `Fokus pada optimasi sistem dan perlindungan data sederhana.`
 
 ---
 
@@ -27,10 +27,20 @@ Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir men
 
 ---
 
+### 📊 GitHub Journey
+<p align="center">
+  <img src="https://unlocked.v90.us/api/card?user=cmdecho&theme=tokyonight" alt="GitHub Profile Miles" />
+</p>
+
 ---
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/cmdecho" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/cmdecho" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <code>"3 years of turning curiosity into code, all within Linux."</code>
 </p>
