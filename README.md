@@ -27,11 +27,6 @@
 
 ---
 
-### 📊 GitHub Journey
-<p align="center">
-  <img src="https://unlocked.v90.us/api/card?user=cmdecho&theme=tokyonight" alt="GitHub Profile Miles" />
-</p>
-
 ---
 
 ### 📬 Connect With Me
