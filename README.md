@@ -1,4 +1,4 @@
-# 🐧 CMDECHO
+# 🐧 RIZKY MAULANA 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cmdecho&label=Views&color=00d2ff&style=flat-square" alt="Views" />
@@ -33,10 +33,4 @@ Berawal dari **di bawah rasa penasaran**, saya menghabiskan 3 tahun terakhir men
 <p align="left">
   <a href="https://instagram.com/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-
----
-<p align="center">
-  <i>"3 years of turning curiosity into code, all within Linux."</i>
 </p>
