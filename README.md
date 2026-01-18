@@ -32,7 +32,7 @@
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://instagram.com/cmdecho" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/cmdecho" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/RVPNSTORES" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
